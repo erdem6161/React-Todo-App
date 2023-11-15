@@ -13,7 +13,7 @@ npm install
 
 ## Built With
 
-* [ReactJS](https://reactjs.org/)
+* [ReactJS](https://reactjs.org/).
 
 ## Create React App
 
